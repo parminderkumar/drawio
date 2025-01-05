@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oxKHqDHT3E6hE6Q1C5oI-1" value="VPC" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="213" y="70" width="547" height="350" as="geometry" />
+          <mxGeometry x="50" y="80" width="710" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
